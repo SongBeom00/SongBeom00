@@ -1,13 +1,5 @@
 <h1 align="center">안녕하세요</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+%7C+ML+%7C+Data+Enthusiast;Love+Java%2C+Spring%2C+Python+%26+AI" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubid&theme=algolia&margin-w=15&no-bg=true" alt="GitHub Trophy" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,8 +31,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubid&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SongBeom00&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongBeom&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
