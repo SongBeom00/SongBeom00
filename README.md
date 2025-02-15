@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -53,7 +54,7 @@
 
 ## 🌏 Connect with Me
 <p>
-  <a href="https://velog.io/songbeom00">
+  <a href="https://velog.io/@songbeom00">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
   </a>
   <a href="https://github.com/SongBeom00">
