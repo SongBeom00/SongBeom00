@@ -46,14 +46,20 @@
 
 ## 🎯 Currently Learning
 - **Deep Learning**: NLP, CNN, RNN  
-- **Cloud & DevOps**: AWS, Docker, Kubernetes  
-- **Backend Development**: Spring Security, FastAPI  
+- **Cloud & DevOps**: AWS, Docker 
+- **Backend Development**: Spring, Spring Security, FastAPI 
 
 ---
 
-## 🌎 Connect with Me
+## 🌏 Connect with Me
 <p>
-  <a href="https://github.com/yourgithubid"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedinid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://velog.io/songbeom00">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://github.com/SongBeom00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kjb00102323@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
