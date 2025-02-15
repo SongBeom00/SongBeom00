@@ -1,21 +1,10 @@
-<h1 align="center">안녕하세요</h1>
+<h1 align="center">안녕하세요 SongBeom00 입니다. </h1>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+%7C+ML+%7C+Data Scientist;Love+Java%2C+Spring%2C+Python+%26+AI" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SongBeomm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@songbeom00">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
-  </a>
-  <a href="mailto:kjb00102323@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+백엔드 개발과 데이터 사이언스에 관심이 많으며,  
+**Java & Spring Boot** 기반의 서버 개발과 **Python & 머신러닝 & 딥러닝**을 활용한 데이터 분석을 주로 다룹니다.  
+효율적이고 확장 가능한 시스템을 구축하는 것을 좋아하며,  
+데이터를 활용하여 더 나은 의사결정을 할 수 있도록 돕는 것이 목표입니다.
 
 ---
 
