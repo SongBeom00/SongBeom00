@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SongBeom00&show_icons=true&theme=radical" height="180px" />
-  ![GitHub Weekly Stats](https://github-profile-summary-cards.vercel.app/api/cards/weekly-activity?username=SongBeom00&theme=radical)
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SongBeom00&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/weekly-activity?username=SongBeom00&theme=radical" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SongBeom00&theme=radical" height="180px" />
 </p>
 
 ---
