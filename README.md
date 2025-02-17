@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 SongBeom00 입니다. </h1>
+<h1 align="center">안녕하세요</h1>
 
 
 백엔드 개발과 데이터 사이언스에 관심이 많으며,  
