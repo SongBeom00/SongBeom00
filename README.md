@@ -42,6 +42,13 @@
 
 ---
 
+## 📚 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongBeom00&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 🎯 Currently Learning
 - **Deep Learning**: NLP, CNN, RNN  
 - **Cloud & DevOps**: AWS, Docker 
