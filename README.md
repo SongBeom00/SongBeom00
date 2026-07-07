@@ -36,7 +36,8 @@
 ---
 
 ## 📊 GitHub Stats
-![SongBeom's github stats](https://github-readme-stats.vercel.app/api?username=SongBeom00&show_icons=true&theme=tokyonight)
+
+![SongBeom's GitHub Stats](https://github-readme-stats-kappa-cyan.vercel.app/api?username=SongBeom00&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026%20Stats)
 
 ---
 
