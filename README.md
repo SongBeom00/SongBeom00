@@ -37,7 +37,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SongBeom00&show_icons=true&theme=radical&v=1" />
+
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=SongBeom00&show_icons=true&theme=radical" />
+
 </p>
 
 ---
