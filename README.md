@@ -36,7 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-![SongBeom00's GitHub stats](https://vercel.app)
+![SongBeom's github stats](https://github-readme-stats.vercel.app/api?username=SongBeom00&show_icons=true&theme=tokyonight)
 
 ---
 
